@@ -68,7 +68,7 @@ self.__precacheManifest = [
     "url": "/my-react-portfolio/static/media/fontawesome-webfont.912ec66d.svg"
   },
   {
-    "revision": "76f940a41abe8a134f8de63060c43f61",
+    "revision": "e98136620ae2a32480d0dbba42436da0",
     "url": "/my-react-portfolio/index.html"
   }
 ];
