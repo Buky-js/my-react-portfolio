@@ -1,8 +1,8 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://buky-js.github.io/react-portfolio/",
-  "private": false,
+  "homepage": "https://buky-js.github.io/my-react-portfolio/",
+  "private": true,
   "dependencies": {
     "@fortawesome/fontawesome": "^1.1.8",
     "@fortawesome/fontawesome-free-regular": "^5.0.13",
